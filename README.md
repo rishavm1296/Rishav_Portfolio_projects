@@ -1,1 +1,2 @@
-# Rishav_Portfolio_projects
+Hi there, Welcome to my profile.I'm sharing my projects that I worked on. In one project, I predicted the stock price using the S&P 500 data from the yahoo finance library. I used the Random Forest Machine learning algorithm, I also utilised the various other library such as Numpy and Pandas for the data transformation, SkLearn for the machine learning. 
+In other projects, I worked on SQL, and created the Dashboard using Power BI.
